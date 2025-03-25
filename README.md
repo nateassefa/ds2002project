@@ -1,4 +1,6 @@
-# ds2002project
+# DS2002Project
+
+by Nate Assefa and Tsion Abate
 
 To run the ETL pipeline, you must download the players.csv file also included and upload it in the local file storage on Colab. Upon loading the players.csv into colab, you can then run the file and you will be able to ingest the player.csv locally and then there is access credientials included to access the other dataset via Kaggle API. 
 
